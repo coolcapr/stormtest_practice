@@ -1,0 +1,7 @@
+Outstanding shares - Company's stock currently held by all of it's shareholders
+
+Treasury stock - A portion of shares that a company keeps in their treasury. May have come from repurchase or buyback from shareholders, or it might have never been sold in the first place.
+
+Total market cap = Outstanding shares x Price Per Share
+
+P/E ratio = total market cap / annual profit
